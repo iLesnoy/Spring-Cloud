@@ -1,0 +1,5 @@
+rootProject.name = 'demo'
+includeBuild 'eureka-client'
+includeBuild 'eureka-server'
+includeBuild 'gift-shop'
+includeBuild 'api-gateway'
